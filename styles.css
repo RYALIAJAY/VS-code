@@ -1,0 +1,22 @@
+h1 {
+    color:blueviolet;
+    margin-bottom: 10px;
+   }
+   #main-nav {
+    margin-top: 10px;
+    list-style:circle;
+    padding-left: 0px;
+   }
+   #main-nav li {
+    display:inline-table;
+   }
+   #main-nav a {
+    color: white;
+    background-color: #13a4a4;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+   }
+   #main-nav .featured{
+       background-color:orange;
+   }
